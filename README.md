@@ -3,6 +3,7 @@
 ## Team name: Group 5
 
 ## The Metric
+Our metric to decide the "best" neighborhood in pittburgh is a combination of the least amount of steps, the lowest obesity rates, and the highest property value. As a group we decided that these three factors are nesary to make a perfect negihborhood. The three data sets can be found below.
 https://data.wprdc.org/dataset/city-steps
 https://data.wprdc.org/dataset/allegheny-county-obesity-rates
 ## Brayden's Conclusion
